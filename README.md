@@ -1,4 +1,5 @@
 ### ROHIT VERMA
+<font size="2">
 *(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
 
 ### EDUCATION
@@ -79,3 +80,4 @@
 **Cloud**: In-depth knowledge about AWS architecture, familiarity with Azure and GCP\
 **Motto**: Think simple without any prejudice, analyze thoroughly and then put your hardest effort with patience.\
 **Interests**: Philosophy (epistemology and philosophy of science), reading (mostly tech), traveling, swimming, tennis\
+</font>
