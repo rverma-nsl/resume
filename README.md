@@ -1,6 +1,6 @@
-# ROHIT VERMA
-*(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718/ | https://github.com/rverma-nsl*\
-BANGALORE 560037
+## ROHIT VERMA
+*(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
+*BANGALORE 560037*
 
 ## EDUCATION
 **Indian Institute of Technology, Kharagpur**, Kharagpur, WB\
@@ -10,42 +10,49 @@ BANGALORE 560037
 
 ### Leadership & Client Interaction
 
-- Collaborated with multiple clients to understand their technical architecture and requirements, ensuring effective solutions were developed and implemented
+- 8+ Client Communications(Healthcare, Fintech, Govt, HR) as Architect, ensuring effective solutions were developed and implemented
 - Conducted over 30 hours trainings to mentor and upskill junior developers, fostering a culture of continuous learning and improvement
-- Delivered guest lectures at Dayanand Sagar College of Engineering, sharing expertise in cloud technologies, contributing to the development of future industry professionals
+- Collaborated with the AWS team to conduct architectural reviews, cost planning & optimizations, saas factory, Genreative AI, Partner Training Programs
+- Handled Multiple security compliance like ISO 27001, UPI SAR, SOC 2., PCI DSS, NPCI
+- Resource/Budget/Product roadmap/Planning & execution with support of Product and process managers
 
 ### Technical Leadership
 
 **Vice President/GSL - PAAS, Brane Enterprises / Nslhub**, Bangalore, KA, Jan 2021 - Present
-- Built the enterprise-certified PBMN compliant Landing zone architecture using AWS CDK + ASEA (AWS Secure Environment Accelerator) and led the migration to the new environment using Gitops
-- Led efforts for test automation framework based on K6
-- Developed serverless tenant onboarding services which leverages CDK for highly concurrent tiered tenant resouce provisioning 
-- Achieved 10M TPS through optimizations and tuning of Kafka, ES, RDS, Redis, and Spring Boot Reactor
-- Developed a semantic search engine using Milvus vector DB and LSTM vectors
-- Developed a BET curation pipeline with NL tagging, lemmatization, and link validation using a graph approach
+- Developed NSL Saas Accelerator Framework for concurrent onboarding tenants, just in time IAC with multiple profiles silo,pool,serverless using AWS CDK Ts
+- Developed NSL global search, semantic search engine using Milvus vector DB with BERT/CLIP embeddings 
+- Developed NSL tenant storage engine over graphQL, Dynamodb, Dgraph and TiDB, which involves curation & graph linkage detection
+- Developed NSL HCI architecture on Nutanix + AWS using eks anywhere
+- Implemented most secure gov cloud compliant(PBMN) SAAS Landing zone architecture with secure Account factory using AWS CDK Ts
+- Achieved 10M TPS through optimizations and tuning of Kafka, ES, RDS, Redis,Java Profiling
 - Simplified Kafka-Flink architectures using SMT (Connect), Kafka streams, and Kafka registry with Protobuf
-- Led tech modernization efforts, including Maven to Bazel, Java to Java + Go, REST to gRPC + Protobuf, and DynamoDB to ScyllaDB
-- Inroduced capability of using HCI infrastructure with Nutanix for extreme data security
+- Led tech modernization efforts, including K6,Maven => Bazel, REST to Graphql & gRPC, ScyllaDB, TiDB
 - Conducted company-wide SRE training and delivered a visiting lecture at Dayanand Sagar University on Cloud technologies
 
 **Principal Architect (Platform team), Jupiter Money**, Bangalore, KA, Nov 2019 - Jan 2021
+- Led the development of Jupiter's Lending management system
+- Led Development of PII redaction layer to securely tokenize inbound PII data and store in segregation as per tenants.
+- Led compliance engagments on ISO 27001, UPI SAR, SOC 2., PCI DSS, NPCI all Earned.
 - Built a modern, multi-tenant, secure cloud architecture with multi-accounts, incorporating AWS, EMR, Kubernetes, GitHub Actions, Prow, Spinnaker, Loki, Cortex, Prometheus, Istio, and Jaeger
-- Developed a data lake for structured infra logs (S3+Parquet), an RBAC layer for access control, and a SIEM engine for log analysis and predictive anomaly detection using open-distro Elastic
+- Develop the secure hub and spoke architecture with partner banks giants like AXIS, Federal, Zeta, Genesys and FIS over DX and MPLS
+- Developed a banking SIEM engine for log analysis and predictive anomaly detection using opensearch
+
 
 ### Architectural Contributions
 
 **Principal Architect, Niki.ai**, Bangalore, KA, Dec 2017 - Nov 2019
-- Implemented a payment plugin-SDK for B2B customers to integrate with Niki
-- Re-architected cloud infrastructure for multi-account and PCI DSS compliance using Kubernetes, Drone, Spinnaker, Loki, and Prometheus
-- Introduced CQRS and event sourcing in Niki's order fulfillment using Dynamo streams and Kinesis
+- Developed Payment SDK for B2B customers to integrate with Niki
+- Led Niki's Promotion's engine over kie+drools 
 - Developed multiple infra microservices for cost-saving and efficiency improvements
+- Led Niki's order fulfillment using Dynamo streams and Kinesis, showcasing CQRS & event sourcing
 - Led Snowplow(analytics) implementation POC for Mixpanel replacement
-- Created a visualization dashboard for transaction prediction and marketing campaign impact analysis
+- Let transaction trend prediction visualization and marketing campaign impact analysis
 - Contributed to various open-source projects, including alb-ingress-controller, Terraform AWS providers, Istio, Prow, and Geodesic
+- Modernized cloud infrastructure for multi-account and PCI DSS compliance using Kubernetes, Drone, Spinnaker, Loki, and Prometheus
 
 **Lead Product Engineer, Sprinklr**, Bangalore, KA, July - Dec 2017
 - Core contributor to Integration Marketplace V1 architecture for Sprinklr platform
-- Developed a microservices-based plugin architecture, including plugin discovery with Consul and plugin (un)installation based on Pubsubhubbub architecture
+- POC the plugin architecture, including plugin discovery with Consul and plugin lifecycle management based on Pubsubhubbub architecture
 - Led customer trials for the V1 architecture with closed customers like SAP C4C
 
 ### Software Engineering
@@ -71,6 +78,7 @@ BANGALORE 560037
 - Created SOAP services based on Service Bus integrations for various Symantec portals (e.g., Norton store, Workday) including development of payment, workday, credit card association, vendors fraud and trade compliance, and lead propagation from Salesforce
 
 ## SKILLS
-**Languages**: Proficient in Java and Go; Can code with Kotlin, Python, and TypeScript\
-**Cloud**: In-depth knowledge about AWS architecture, familiarity with Azure and GCP\
+**Languages**: Proficient in Java and Go; Can code with Kotlin, Python, and TypeScript
+**Cloud**: In-depth knowledge about AWS architecture, familiarity with Azure and GCP
+**Motto**: Think simple without any prejudice, analyze thoroughly and then put your hardest effort with patience.
 **Interests**: Philosophy (epistemology and philosophy of science), reading (mostly tech), traveling, swimming, tennis
