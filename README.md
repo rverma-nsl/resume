@@ -1,5 +1,5 @@
 ### ROHIT VERMA
-<font size="2">*(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
+*(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
 
 ### EDUCATION
 **Indian Institute of Technology, Kharagpur**, *BTech (Hons) Agriculture & Food Technology* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2007 - May 2011
