@@ -12,7 +12,7 @@ $base-font-family: "PT Serif", serif;
 
 .markdown-body {
   font-family: "PT Serif", serif;
-  font-size:   11px;
+  font-size:   10px;
 }
 
 body {
@@ -20,4 +20,13 @@ body {
   font-weight: 400;
   font-style: normal;
   line-height: 1;
+}
+
+@font-face {
+  font-family: BetterHeader;
+  src: url(...) format("WOFF2");
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: BetterHeader, Helvetica, Arial, sans;
 }
