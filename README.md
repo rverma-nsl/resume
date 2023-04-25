@@ -55,21 +55,20 @@
 ### Software Engineering
 
 **Senior Software Engineer, Rokitt (Io-Tahoe/Centrica/Hitachi Vantara)**, Bengaluru(KA) - New Jersey(NJ), May 2015 - July 2017
-- Implemented large-scale data pipelines using Spark and ML models using Weka/Spark ML
-- Developed Genesis, a synthetic data generator that honors PK/FK relationships and auto-discovers/classifies seed data, evolving from an internal tool to a sellable product
-- Created a WebSocket-based workflow with live updates
 - Led the development of ToFrom, a personalized travel platform built from scratch (200+ endpoints, 3rd party vendor integrations for flight, hotel, weather, airport data, TripAdvisor reviews)
+- Developed large-scale data churning, analysis pipelines using Spark and Spark ML (transpiling models from Weka)
+- Developed Genesis, a synthetic data generator that honors PK/FK relationships and auto-discovers/classifies seed data, evolving from an internal tool to a sellable product
+- Created a WebSocket-based workflow apis with live updates
 
 **Senior Software Engineer, QA Source (Bebo Technologies)**, Chandigarh, Jun 2014 - Mar 2015
-- Refactored an e-commerce platform and a warehouse to support multi-tenancy
-- Developed multiple Talend pipelines for data migration to modified schema and real-time sync with binlog
-- Built a web app (Java server) for a team of ten developers to identify invalid raw data logs before analysis
+- Refactored an e-commerce platform and a warehouse to support multi-tenancy using RLS
 - Led the effort for deconstructing monolithic app to an SOA, responsible for EAI backbone using Spring-Integration/Rabbit MQ
-- Set up search with Elasticsearch and created ELK panes for analytics with multiple aggregations for geospatial and time-series data
+- Developed multiple Talend pipelines for data migration to modified schema and real-time sync with binlog
+- Developed Ecommerce Search, faceting with Elasticsearch and ELK panes for analytics with multiple aggregations for geospatial and time-series data
 
 **Software Engineer, Mphasis, an HP company**, Pune(MH), May 2011 - Mar 2014
-- Developed banking APIs for First Republic Bank
-- Implemented SWIFT protocol over MQTT for wire transfers
+- Developed core banking solution as SOAP apis for First Republic Bank
+- Implemented SWIFT protocol over JMS-MQTT brdige for wire transfers
 - Proposed a code template and code generator similar to JHipster, later adopted for all development under the project
 - Developed automation scripts for Java source code update from Java 5 to Java 7 for the service bus, including compilation, build, and pattern code replacement, saving over 500+ man-hours
 - Created SOAP services based on Service Bus integrations for various Symantec portals (e.g., Norton store, Workday) including development of payment, workday, credit card association, vendors fraud and trade compliance, and lead propagation from Salesforce
