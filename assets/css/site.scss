@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+.inner {
+  max-width: 75%;
+}
+
+$base-font-size:   13px !default;
+$base-font-family: "PT Serif", serif;
