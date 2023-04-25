@@ -1,6 +1,5 @@
 ## ROHIT VERMA
 *(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
-*BANGALORE 560037*
 
 ## EDUCATION
 **Indian Institute of Technology, Kharagpur**, Kharagpur, WB\
@@ -18,7 +17,7 @@
 
 ### Technical Leadership
 
-**Vice President/GSL - PAAS, Brane Enterprises / Nslhub**, Bangalore, KA, Jan 2021 - Present
+**Vice President/GSL - PAAS, Brane Enterprises / Nslhub**, Bengaluru, KA, Jan 2021 - Present
 - Developed NSL Saas Accelerator Framework for concurrent onboarding tenants, just in time IAC with multiple profiles silo,pool,serverless using AWS CDK Ts
 - Developed NSL global search, semantic search engine using Milvus vector DB with BERT/CLIP embeddings 
 - Developed NSL tenant storage engine over graphQL, Dynamodb, Dgraph and TiDB, which involves curation & graph linkage detection
@@ -29,7 +28,7 @@
 - Led tech modernization efforts, including K6,Maven => Bazel, REST to Graphql & gRPC, ScyllaDB, TiDB
 - Conducted company-wide SRE training and delivered a visiting lecture at Dayanand Sagar University on Cloud technologies
 
-**Principal Architect (Platform team), Jupiter Money**, Bangalore, KA, Nov 2019 - Jan 2021
+**Principal Architect (Platform team), Jupiter Money**, Bengaluru, KA, Nov 2019 - Jan 2021
 - Led the development of Jupiter's Lending management system
 - Led Development of PII redaction layer to securely tokenize inbound PII data and store in segregation as per tenants.
 - Led compliance engagments on ISO 27001, UPI SAR, SOC 2., PCI DSS, NPCI all Earned.
@@ -37,10 +36,9 @@
 - Develop the secure hub and spoke architecture with partner banks giants like AXIS, Federal, Zeta, Genesys and FIS over DX and MPLS
 - Developed a banking SIEM engine for log analysis and predictive anomaly detection using opensearch
 
-
 ### Architectural Contributions
 
-**Principal Architect, Niki.ai**, Bangalore, KA, Dec 2017 - Nov 2019
+**Principal Architect, Niki.ai**, Bengaluru, KA, Dec 2017 - Nov 2019
 - Developed Payment SDK for B2B customers to integrate with Niki
 - Led Niki's Promotion's engine over kie+drools 
 - Developed multiple infra microservices for cost-saving and efficiency improvements
@@ -50,14 +48,14 @@
 - Contributed to various open-source projects, including alb-ingress-controller, Terraform AWS providers, Istio, Prow, and Geodesic
 - Modernized cloud infrastructure for multi-account and PCI DSS compliance using Kubernetes, Drone, Spinnaker, Loki, and Prometheus
 
-**Lead Product Engineer, Sprinklr**, Bangalore, KA, July - Dec 2017
+**Lead Product Engineer, Sprinklr**, Bengaluru, KA, July - Dec 2017
 - Core contributor to Integration Marketplace V1 architecture for Sprinklr platform
 - POC the plugin architecture, including plugin discovery with Consul and plugin lifecycle management based on Pubsubhubbub architecture
 - Led customer trials for the V1 architecture with closed customers like SAP C4C
 
 ### Software Engineering
 
-**Senior Software Engineer, Rokitt (Io-Tahoe/Centrica/ Hitachi Vantara)**, Bangalore, KA - New Jersey, NJ
+**Senior Software Engineer, Rokitt (Io-Tahoe/Centrica/ Hitachi Vantara)**, Bengaluru, KA - New Jersey, NJ
 - Implemented massive scale data pipelines using Spark and ML models using Weka/Spark ML
 - Developed Genesis synthetic data generator, which honors PK/FK relationships and auto-discovers/classifies seed data, evolving from an internal tool to a sellable product
 - Created a WebSocket-based workflow with live updates
@@ -78,7 +76,7 @@
 - Created SOAP services based on Service Bus integrations for various Symantec portals (e.g., Norton store, Workday) including development of payment, workday, credit card association, vendors fraud and trade compliance, and lead propagation from Salesforce
 
 ## SKILLS
-**Languages**: Proficient in Java and Go; Can code with Kotlin, Python, and TypeScript
-**Cloud**: In-depth knowledge about AWS architecture, familiarity with Azure and GCP
-**Motto**: Think simple without any prejudice, analyze thoroughly and then put your hardest effort with patience.
-**Interests**: Philosophy (epistemology and philosophy of science), reading (mostly tech), traveling, swimming, tennis
+**Languages**: Proficient in Java and Go; Can code with Kotlin, Python, and TypeScript\
+**Cloud**: In-depth knowledge about AWS architecture, familiarity with Azure and GCP\
+**Motto**: Think simple without any prejudice, analyze thoroughly and then put your hardest effort with patience.\
+**Interests**: Philosophy (epistemology and philosophy of science), reading (mostly tech), traveling, swimming, tennis\
