@@ -1,2 +1,10 @@
 name: Rohit Verma
 title: null
+baseurl: "/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
