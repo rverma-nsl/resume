@@ -9,8 +9,8 @@
 
 ### Leadership & Client Interaction
 
-- 8+ Client Communications(Healthcare, Fintech, Govt, HR) as Architect, ensuring effective solutions were developed and implemented
-- Conducted over 30 hours trainings to mentor and upskill junior developers, fostering a culture of continuous learning and improvement
+- Client engagement for differnt sectors(Healthcare, Fintech, Govt, HR) as Architect, ensuring effective solutions were developed and implemented
+- Conducted over 40 hours trainings in last year to mentor and upskill junior developers, fostering a culture of continuous learning and improvement
 - Collaborated with the AWS team to conduct architectural reviews, cost planning & optimizations, saas factory, Genreative AI, Partner Training Programs
 - Handled Multiple security compliance like ISO 27001, UPI SAR, SOC 2., PCI DSS, NPCI
 - Resource/Budget/Product roadmap/Planning & execution with support of Product and process managers
