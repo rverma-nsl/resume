@@ -2,7 +2,7 @@
 *(+91) 9988844215 | rohitatiit@gmail.com | https://www.linkedin.com/in/rohit-verma-24084718 | https://github.com/rverma-nsl*
 
 ### EDUCATION
-**Indian Institute of Technology, Kharagpur**, *BTech (Hons) Agriculture & Food Technology* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July 2007 - May 2011
+**Indian Institute of Technology, Kharagpur**, *BTech (Hons) Agriculture & Food Technology*, July 2007 - May 2011
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -16,7 +16,7 @@
 
 ### Technical Leadership
 
-**Vice President/GSL - PAAS, Brane Enterprises / Nslhub** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Bengaluru, KA, Jan 2021 - Present
+**Vice President/GSL - PAAS, Brane Enterprises / Nslhub**, Bengaluru(KA), Jan 2021 - Present
 - Developed NSL Saas Accelerator Framework for concurrent onboarding tenants, just in time IAC with multiple profiles silo,pool,serverless using AWS CDK Ts
 - Developed NSL global search, semantic search engine using Milvus vector DB with BERT/CLIP embeddings 
 - Developed NSL tenant storage engine over graphQL, Dynamodb, Dgraph and TiDB, which involves curation & graph linkage detection
@@ -27,7 +27,7 @@
 - Led tech modernization efforts, including K6,Maven => Bazel, REST to Graphql & gRPC, ScyllaDB, TiDB
 - Conducted company-wide SRE training and delivered a visiting lecture at Dayanand Sagar University on Cloud technologies
 
-**Principal Architect (Platform team), Jupiter Money** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Bengaluru, KA, Nov 2019 - Jan 2021
+**Principal Architect (Platform team), Jupiter Money**, Bengaluru(KA) Nov 2019 - Jan 2021
 - Led the development of Jupiter's Lending management system
 - Led Development of PII redaction layer to securely tokenize inbound PII data and store in segregation as per tenants.
 - Led compliance engagments on ISO 27001, UPI SAR, SOC 2., PCI DSS, NPCI all Earned.
@@ -37,7 +37,7 @@
 
 ### Architectural Contributions
 
-**Principal Architect, Niki.ai** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Bengaluru, KA, Dec 2017 - Nov 2019
+**Principal Architect, Niki.ai**, Bengaluru(KA) Dec 2017 - Nov 2019
 - Developed Payment SDK for B2B customers to integrate with Niki
 - Led Niki's Promotion's engine over kie+drools 
 - Developed multiple infra microservices for cost-saving and efficiency improvements
@@ -47,27 +47,27 @@
 - Contributed to various open-source projects, including alb-ingress-controller, Terraform AWS providers, Istio, Prow, and Geodesic
 - Modernized cloud infrastructure for multi-account and PCI DSS compliance using Kubernetes, Drone, Spinnaker, Loki, and Prometheus
 
-**Lead Product Engineer, Sprinklr** &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Bengaluru, KA, July - Dec 2017
+**Lead Product Engineer, Sprinklr**, Bengaluru(KA) July - Dec 2017
 - Core contributor to Integration Marketplace V1 architecture for Sprinklr platform
 - POC the plugin architecture, including plugin discovery with Consul and plugin lifecycle management based on Pubsubhubbub architecture
 - Led customer trials for the V1 architecture with closed customers like SAP C4C
 
 ### Software Engineering
 
-**Senior Software Engineer, Rokitt (Io-Tahoe/Centrica/ Hitachi Vantara)** &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  Bengaluru, KA - New Jersey, NJ, May 2015 - July 2017
+**Senior Software Engineer, Rokitt (Io-Tahoe/Centrica/ Hitachi Vantara)**, Bengaluru(KA) - New Jersey(NJ), May 2015 - July 2017
 - Implemented massive scale data pipelines using Spark and ML models using Weka/Spark ML
 - Developed Genesis synthetic data generator, which honors PK/FK relationships and auto-discovers/classifies seed data, evolving from an internal tool to a sellable product
 - Created a WebSocket-based workflow with live updates
 - Led development of ToFrom, a personalized travel platform, from scratch (200+ endpoints, 3rd party vendor integrations for flight, hotel, weather, airport data, TripAdvisor reviews)
 
-**Senior Software Engineer, Qa Source (Bebo Technologies)** &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  Chandigarh, Jun 2014 - Mar. 2015
+**Senior Software Engineer, Qa Source (Bebo Technologies)**, Chandigarh, Jun 2014 - Mar. 2015
 - Refactored an e-commerce platform and a warehouse to support multi-tenancy
 - Developed multiple Talend pipelines for data migration to modified schema and real-time sync with binlog
 - Built a web app (Java server) for a team of ten developers to identify invalid raw data logs before analysis
 - Led the effort for deconstructing monolithic app to an SOA, responsible for EAI backbone using Spring-Integration/Rabbit MQ
 - Set up search with Elasticsearch and created ELK panes for analytics with multiple aggregations for geospatial and time-series data
 
-**Software Engineer, Mphasis, an HP company** &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  Pune, MH, May 2011 - Mar. 2014
+**Software Engineer, Mphasis, an HP company**, Pune(MH), May 2011 - Mar. 2014
 - Developed banking APIs for First Republic Bank
 - Implemented SWIFT protocol over MQTT for wire transfer
 - Proposed a code template and code generator like JHipster, later adopted for all development under the project
