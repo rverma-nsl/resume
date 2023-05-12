@@ -18,9 +18,9 @@
 
 **Vice President/GSL - PaaS, Brane Enterprises / Nslhub**, Bengaluru(KA), Jan 2021 - Present
 - Developed the NSL SaaS Accelerator Framework for concurrent tenant onboarding, just-in-time IAC with multiple profiles (silo, pool, serverless) using AWS CDK TypeScript
+- Led the Implementation of NSL Obervability Suite using Grafana, Loki, Cortex and Tempo.
 - Created the NSL global search, a semantic search engine utilizing Milvus vector DB with BERT/CLIP embeddings
 - Developed the NSL tenant storage engine using GraphQL, DynamoDB, Dgraph, and TiDB for curation and graph linkage detection
-- Implemented an HCI architecture on Nutanix + AWS using EKS Anywhere
 - Designed a secure, government cloud-compliant (PBMN) SaaS Landing Zone architecture with an Account Factory using AWS CDK TypeScript
 - Achieved 10M TPS through optimizations and tuning of Kafka, Elasticsearch, RDS, Redis, and Java Profiling
 - Simplified Kafka-Flink architectures using SMT (Connect), Kafka streams, and Kafka Schema Registry with Protobuf
